@@ -1,0 +1,1 @@
+# zipkin-elk-log-collect
